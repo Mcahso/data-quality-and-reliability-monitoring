@@ -22,6 +22,8 @@ Generated from your final-panel prep plan. **Do not edit the plan file** — wor
 
 **Prompts only (work independently):** [python_prompts.md](python_prompts.md)
 
+**Guided walkthrough (hints + hidden answers):** [python_walkthrough.md](python_walkthrough.md)
+
 **Question bank (patterns + study guide):** [09-python-leetcode-questions.md](09-python-leetcode-questions.md)
 
 ```bash
