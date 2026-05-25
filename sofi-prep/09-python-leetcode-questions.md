@@ -4,8 +4,8 @@
 **Skills tested:** functions, loops, lists, dicts, strings, hash maps, sliding window, two pointers
 
 **Practice workflow:**
-1. Solve from this doc without looking at solutions.
-2. Check against `python_practice_stubs.py` tests: `python3 sofi-prep/python_practice_stubs.py --problem N`
+1. Solve from [python_prompts.md](python_prompts.md) (prompts only — no hints).
+2. Implement in `python_practice_stubs.py` and run tests: `python3 sofi-prep/python_practice_stubs.py --problem N`
 3. Compare to `python_drill.py` when stuck.
 
 ---

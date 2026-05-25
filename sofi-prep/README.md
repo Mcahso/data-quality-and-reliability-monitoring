@@ -20,7 +20,9 @@ Generated from your final-panel prep plan. **Do not edit the plan file** — wor
 
 ## Python (17 LeetCode-style problems)
 
-**Question bank:** [09-python-leetcode-questions.md](09-python-leetcode-questions.md)
+**Prompts only (work independently):** [python_prompts.md](python_prompts.md)
+
+**Question bank (patterns + study guide):** [09-python-leetcode-questions.md](09-python-leetcode-questions.md)
 
 ```bash
 # Solve in python_practice_stubs.py, then verify:
